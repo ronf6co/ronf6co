@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ron Cohen
+- 👀 I’m interested in Quantum Computing
+- 🌱 I’m learning Electrical Engineering M.Sc. in the field of Optical Quantum Computing
+- 📫 ron1@mail.tau.ac.il
